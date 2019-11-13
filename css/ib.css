@@ -1,0 +1,18 @@
+body{
+  color:#7aceff;
+  text-align:center;
+  font-family:Comic Sans MS;
+}
+.header{
+    text-decoration:underline;
+}
+.future{
+filter: brightness(1);
+    transition: filter 5s;
+}
+.future:hover{
+  filter: brightness(10);
+}
+.reasons{
+  text-align:left;
+}
